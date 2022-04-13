@@ -970,7 +970,6 @@ PRODUCT_PACKAGES += \
     poweropt-service \
     ppd \
     qcc-trd \
-    qcom-system-daemon \
     qdcmss \
     qesdk-manager \
     qmi_motext_hook \
