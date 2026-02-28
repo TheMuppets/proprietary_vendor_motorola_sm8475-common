@@ -4942,6 +4942,7 @@ cc_prebuilt_library_shared {
                 "libmdmcutback",
                 "liblog",
                 "libsysutils",
+                "libril",
                 "libc++",
                 "libc",
                 "libm",
@@ -6152,7 +6153,6 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib64/libqcodec2_core.so",
             ],
             shared_libs: [
-                "libcodec2_shim",
                 "libutils",
                 "libcutils",
                 "liblog",
