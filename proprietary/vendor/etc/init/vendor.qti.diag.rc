@@ -7,5 +7,6 @@ service vendor.diag-router /vendor/bin/diag-router
     user system
     group system
     capabilities KILL
+    task_profiles ProcessCapacityLow
     disabled
 

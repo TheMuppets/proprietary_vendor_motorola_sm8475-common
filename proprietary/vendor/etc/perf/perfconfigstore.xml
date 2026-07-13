@@ -59,7 +59,7 @@ ________________________________________________________________________________
                 <!--splh is true/false for ss -->
                 <Prop Name="ro.vendor.perf.splh" Value="false" Target="diwali"/>
                 <Prop Name="ro.vendor.perf.lplh" Value="false" Target="cape,taro,ukee"/>
-                <Prop Name="ro.vendor.perf.lplh" Value="true" Target="diwali"/>
+                <Prop Name="ro.vendor.perf.lplh" Value="false" Target="diwali"/>
                 <Prop Name="ro.vendor.perf.lal" Value="true" Target="diwali"/>
                 <Prop Name="ro.vendor.perf.lgl" Value="true" Target="diwali" SkewType="10"/>
                 <Prop Name="vendor.perf.enable_gplaf_hw" Value="false" Target="diwali" />

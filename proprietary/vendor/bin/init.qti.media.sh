@@ -155,7 +155,7 @@ case "$target" in
                 ;;
             518|561|585)
                 setprop vendor.media.target_variant "_khaje_v0"
-                if [ $build_codename -le "13" ]; then
+                if [ $build_codename -le "14" ]; then
                     setprop vendor.netflix.bsp_rev "Q6115-31409-1"
                 fi
                 ;;
